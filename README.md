@@ -1,6 +1,5 @@
 # hi, i'm radha 👾
 
-welcome to my digital scratchpad.
 i'm a cs student exploring code.
 
 **what you'll find here:**
