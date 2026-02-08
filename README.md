@@ -1,16 +1,14 @@
-Hi there 👋
+<h1 align="center">Hi, I'm Radha 👋</h1>
+<h3 align="center">I (learn) code and stuff.</h3>
+# hi, i'm radha 👾
 
-<!--
-**radha-joshi/radha-joshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+welcome to my digital scratchpad.
+i'm a cs student exploring the creative side of code.
 
-Here are some ideas to get you started:
+**what you'll find here:**
+* casual webpages (that mostly look good)
+* python scripts (that mostly run)
+* coding game solutions
+* a lot of learning in progress
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
