@@ -1,14 +1,11 @@
-<h1 align="center">Hi, I'm Radha 👋</h1>
-<h3 align="center">I (learn) code and stuff.</h3>
 # hi, i'm radha 👾
 
 welcome to my digital scratchpad.
-i'm a cs student exploring the creative side of code.
+i'm a cs student exploring code.
 
 **what you'll find here:**
-* casual webpages (that mostly look good)
-* python scripts (that mostly run)
-* coding game solutions
+* random webpages (that maybe look good)
+* random scripts (that maybe run)
 * a lot of learning in progress
 
 
