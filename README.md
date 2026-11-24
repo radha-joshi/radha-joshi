@@ -1,6 +1,6 @@
 # hi, i'm radha 👾
 
-i'm a cs student exploring code.
+i'm just a girl exploring code.
 
 **what you'll find here:**
 * random webpages (that maybe look good)
